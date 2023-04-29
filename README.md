@@ -13,3 +13,5 @@ Para não misturar o código python com HTML utilizei o auxilio de um template H
 Esta aplicação utiliza as rotas "/add", "/toggle" e "/delete" para adicionar, marcar e excluir tarefas da lista, respectivamente.
 
 Poderia também utilizar um banco de dados para armazenamento das tarefas, mas esta aplicação armazena as tarefas em uma lista inicializada como uma variável global no início do arquivo.
+
+O deploy desta aplicação foi feito no Render (https://render.com/).
